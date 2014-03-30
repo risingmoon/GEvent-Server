@@ -12,3 +12,5 @@ Here are request scenarios:
 * "127.0.0.1:8000/images/JPEG_example.jpeg" - yields directory of images folder.
 * "127.0.0.1:8000/images/sample_1.png" - yields directory of images folder.
 * "127.0.0.1:8000/images/Sample_Scene_Balls.jpg" - yields directory of images folder.
+
+Code Attribution: [Matt Dougherty](https://github.com/geekofalltrades/)
